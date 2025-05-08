@@ -1,6 +1,6 @@
 # LastFMPresence
 
-A BetterDiscord plugin that displays your current **Last.fm track** as **Discord Rich Presence**, including **album art** and **elapsed time** — no Spotify needed!
+A BetterDiscord plugin that displays your current **Last.fm track** as **Discord Rich Presence**, including **album art** and **elapsed time** 
 
 ## Features
 
@@ -27,7 +27,7 @@ A BetterDiscord plugin that displays your current **Last.fm track** as **Discord
 ##  Credits
 
 - Plugin inspired by [dimdenGD/LastFMRichPresence](https://github.com/dimdenGD/LastFMRichPresence)
-- Developed by [exoduslover](https://github.com/exoduslover)
+- Developed by [exodus](https://github.com/ZzzProtagonistzzZ)
 
 ##  License
 
