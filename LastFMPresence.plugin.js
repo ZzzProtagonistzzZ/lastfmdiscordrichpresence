@@ -6,7 +6,7 @@
  * @author exodus
  * @authorLink https://github.com/ZzzProtagonistzzZ
  * @updateUrl https://github.com/ZzzProtagonistzzZ/lastfmdiscordrichpresence/tree/main
- * @source https://github.com/ZzzProtagonistzzZ/lastfmdiscordrichpresence/tree/main
+ * @source https://github.com/ZzzProtagonistzzZ/lastfmdiscordrichpresence
  */
 
 const config = {
